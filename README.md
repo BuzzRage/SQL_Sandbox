@@ -1,5 +1,5 @@
 # SQL_Sandbox
-An SQL Sandbox for tests and learning purpose
+An SQL Sandbox for tests and learning purpose (with TryHackMe or root-me)
 
 # Launch the database
 
