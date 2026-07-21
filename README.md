@@ -51,4 +51,5 @@ will give
 - put variables like root passwd in a .env
 - make an alias for sending request (instead of docker -it )
 - Try some common queries
+- Provide a "cheatsheet" and prepare database to test several scenarios
 - Test some known vulnebarilities ( error-based SQLi, union-based SQLi etc..)
